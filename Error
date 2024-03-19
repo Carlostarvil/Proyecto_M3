@@ -1,0 +1,2 @@
+Al ejecutar el comando git add . me sale esto:warning: in the working copy of 'Conexion  base de datos/mysql-connector-j-8.3.0/src/test/java/testsuite/x/internal/XProtocolTest.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Conexion  base de datos/mysql-connector-j-8.3.0/src/test/java/testsuite/x/internal/package-info.java', LF will be replaced by CRLF the next time Git touches it
